@@ -1,7 +1,15 @@
 body {
-  
+
 }
 
 #wrapper {
+
+}
+
+#content {
+
+  width: 900px;
+  height: 100%;
+  margin: 0 auto 0 auto;
 
 }
